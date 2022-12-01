@@ -1,0 +1,10 @@
+ログイン画面　＞　トップページ　＞　ゲーム紹介ページ
+				＞　アイテム一覧
+				＞　ダウンロードページ
+
+git,sourcetree,PHP,MYSQL,blade,laravel,vscode
+
+テーブル設計
+ログインID　‐　パスワード
+	　　‐　コメント
+
