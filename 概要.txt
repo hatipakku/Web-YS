@@ -8,4 +8,5 @@ git,sourcetree,PHP,MYSQL,blade,laravel,vscode
 ログインID　‐　パスワード
 	　　‐　コメント
 
-test
+山田担当箇所
+トップページ　&　アイテム一覧
