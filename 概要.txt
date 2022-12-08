@@ -7,5 +7,5 @@ git,sourcetree,PHP,MYSQL,blade,laravel,vscode
 テーブル設計
 ログインID　‐　パスワード
 	　　‐　コメント
-
-test
+    
+担当箇所　ログインとゲーム紹介ページ
