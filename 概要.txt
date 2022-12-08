@@ -7,6 +7,5 @@ git,sourcetree,PHP,MYSQL,blade,laravel,vscode
 テーブル設計
 ログインID　‐　パスワード
 	　　‐　コメント
-
-山田担当箇所
-トップページ　&　アイテム一覧
+    
+担当箇所　ログインとゲーム紹介ページ
