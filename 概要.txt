@@ -1,6 +1,8 @@
 ログイン画面　＞　トップページ　＞　ゲーム紹介ページ
 				＞　アイテム一覧
 				＞　ダウンロードページ
+山田担当箇所
+トップページ　&　アイテム一覧
 
 git,sourcetree,PHP,MYSQL,blade,laravel,vscode
 
@@ -8,5 +10,3 @@ git,sourcetree,PHP,MYSQL,blade,laravel,vscode
 ログインID　‐　パスワード
 	　　‐　コメント
 
-山田担当箇所
-トップページ　&　アイテム一覧
