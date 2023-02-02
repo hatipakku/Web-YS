@@ -9,3 +9,6 @@ git,sourcetree,PHP,MYSQL,blade,laravel,vscode
 	　　‐　コメント
     
 担当箇所　ログインとゲーム紹介ページ
+
+ローカルネット　IP 192.168.56.102 
+ローカルURL http://192.168.56.102/k08/SP3_Web/login.html
